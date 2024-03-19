@@ -26,5 +26,6 @@
 >**langages**
 1. html
 2. css
+---
 ![cover](./asset/undraw_undraw_undraw_undraw_undraw_website_o7n3_bucy_30uo_-1-_d6br_0qfo.svg)        
 [![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)

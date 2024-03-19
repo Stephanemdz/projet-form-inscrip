@@ -41,6 +41,10 @@ footer p
 {
     text-align: center;
 }
+header
+{
+    line-height: normal;
+}
 .search-input, #submit{
     padding: .5rem;
 }
